@@ -1,8 +1,3 @@
-Got it! I'll include **everything** (installation, usage, and functionality) in the **README**.
-
-Here's the **full README** with all the details:
-
-```md
 # Block Data Analyzer 🧑‍💻📊
 
 ## Overview
