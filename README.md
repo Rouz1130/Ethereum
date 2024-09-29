@@ -97,7 +97,3 @@ block_hash     timestamp           n_transactions
 
 - **API Configuration**: The API base URL and parameters can be modified in `api_utils.py`.
 - **Window Configuration**: The window size and step size can be modified in the `find_largest_transactions_per_window` function inside `main.py`.
-
-## License
-
-This project is licensed under the MIT License.
